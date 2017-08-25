@@ -1,0 +1,15 @@
+target
+.idea
+.project
+.classpath
+.settings
+build
+bin
+.gradle
+*.iml
+*.orig
+*.mine
+migration*.log
+*/src/main/resources/bonita-versions.properties
+*/src/main/resources/homes/*
+classes
